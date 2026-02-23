@@ -1,49 +1,41 @@
-# Data Science and Machine Learning Projects
+# Computer Lab
 
-Welcome to this repository of data science and machine learning projects. This collection includes a variety of projects, from introductory programming exercises to more advanced machine learning models. Each project is self-contained in its own directory and includes all the necessary code and data to get started.
+A personal learning repository — a collection of notes, exercises, and code from courses, books, and tutorials I'm working through.
 
-## Getting Started
+## Contents
 
-To get started with these projects, you'll need to have Python installed on your system. You can download the latest version of Python from the official website: [python.org](https://www.python.org/)
+### [Bro Code](./bro_code/)
 
-Once you have Python installed, you can clone this repository to your local machine using the following command:
+Code and exercises from the Bro Code YouTube channel.
 
-```bash
-git clone https://github.com/Attabeezy/sequential-crm-for-dce.git
-```
+### [DataCamp Excel](./datacamp_excel/)
 
-After cloning the repository, you can navigate to a specific project directory and follow the instructions in that directory's README file, if one exists.
+Datasets and workbooks from DataCamp's Excel courses.
 
-## Projects
+### [Dive into Data Science](./dive_into_ds/)
 
-### [Bro Code](./bro-code/)
+Notes and code from the book "Dive into Data Science" by Bradford Tuckfield.
 
-This directory contains Python projects from the Bro Code YouTube channel.
+### [Grokking Machine Learning](./grokking_ml/)
 
-### [DataCamp Excel](./datacamp-excel/)
+Notes and code from the book "Grokking Machine Learning" by Luis Serrano.
 
-This directory contains datasets and workbooks from DataCamp's Excel courses.
+### [Kaggle Courses](./kaggle_courses/)
 
-### [Dive into Data Science](dive-into-ds/)
-
-This directory contains code and notes from the book "Dive into Data Science" by Bradford Tuckfield.
-
-### [Grokking Machine Learning](./grokking-ml/)
-
-This directory contains code and notes from the book "Grokking Machine Learning" by Luis Serrano.
-
-### [Kaggle Courses](./kaggle-courses/)
-
-This directory contains code and notes from various Kaggle courses.
+Notebooks and exercises from various Kaggle courses.
 
 ### [ML GColab](./ml_gcolab/)
 
-This directory contains machine learning projects developed in Google Colab.
+Machine learning experiments run in Google Colab.
 
-### [Neural Nine](./neural-nine/)
+### [Neural Nine](./neural_nine/)
 
-This directory contains projects from the Neural Nine YouTube channel.
+Projects and tutorials from the Neural Nine YouTube channel.
 
-### [Python Crash Course](py-crash-course/)
+### [Python Crash Course](./py_crash_course/)
 
-This directory contains exercises and projects from the book "Python Crash Course" by Eric Matthes.
+Exercises and projects from the book "Python Crash Course" by Eric Matthes.
+
+### [PyMOOC (University of Helsinki)](./pymooc_uhelsinki/)
+
+Exercise submissions for the University of Helsinki's Python Programming MOOC.
