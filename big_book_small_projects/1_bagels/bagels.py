@@ -15,7 +15,7 @@ def main():
     print(f"""Bagels, a deductive logic game.
           By Attabeezy
           
-          I am thing of a {NUM_DIGITS}-digit number with no repeated digits.
+          I am thinking of a {NUM_DIGITS}-digit number with no repeated digits.
           Try to guess what it is. Here are some clues:
           When I say:      That means:
             Pico           One digit is correct but in the wrong position.
@@ -50,7 +50,7 @@ def main():
                 print(f'The answer was {secretNum}.')
         
         # Ask player if they want to play again
-        print('Do you wnat to play again? (yes or no)')
+        print('Do you want to play again? (yes or no)')
         if not input('> ').lower().startswith('y'):
             break
     
@@ -77,7 +77,7 @@ def getClues(guess, secretNum):
     clues = []
     
     for i in range(len(guess)):
-        if guess[i] in secretNum:
+        if guess[i] in secretNum[i]:
             # A correct digit is in the correct place
             clues.append('Fermi')
         elif guess[i] in secretNum:
